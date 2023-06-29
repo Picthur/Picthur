@@ -83,11 +83,3 @@
     <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/picthur/picthur/output/snake.svg" alt="Snake animation" />
-
-###
