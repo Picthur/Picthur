@@ -1,11 +1,10 @@
 <h2 align="left">Hi 👋! My name is Arthur BUISSON and I'm a engineering student in IT at Efrei Paris</h2>
 
 ###
-
+<br>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=picthur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=dracula&hide_border=true" height="145" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=picthur&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="145" alt="stats graph"  />
@@ -18,7 +17,7 @@
 ###
 
 ###
-
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -74,7 +73,7 @@
 </div>
 
 ###
-
+<br>
 <div align="left">
   <a href="https://www.linkedin.com/in/arthurbuisson/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
